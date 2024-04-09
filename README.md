@@ -12,13 +12,13 @@ This project fetches data from a JSON file using the request module in Python an
 ## Images
 
 1. **Running the Python Server**:  
-   ![Running the Python Server](/path/to/server-screenshot.png)  
+   ![Running the Python Server](images/Screenshot_1.png)  
    This image shows the command used to run the Python server.
 
 2. **Web Page**:  
-   ![Web Page](/path/to/webpage-screenshot.png)  
+   ![Web Page](images/Screenshot_2.png)  
    This image displays the starting webpage with summaries of blog posts.
 
 3. **Viewing a Post**:  
-   ![Viewing a Post](/path/to/post-page-screenshot.png)  
+   ![Viewing a Post](images/Screenshot_3.png)  
    This image shows the individual blog post page after clicking on the "Read More" link.
