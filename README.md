@@ -21,4 +21,4 @@ This project fetches data from a JSON file using the request module in Python an
 
 3. **Viewing a Post**:  
    ![Viewing a Post](images/Screenshot_3.png)  
-   This image shows the individual blog post page after clicking on the "Read More" link.
+   This image shows the individual blog post page after clicking on the "Read" link.
