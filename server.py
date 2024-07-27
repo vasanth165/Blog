@@ -1,11 +1,13 @@
 from flask import Flask, render_template
 import requests
-
+import os
+from dotenv import load_dotenv
 
 app = Flask(__name__)
 
+load_dotenv()
 
-response = requests.get("https://api.jsonbin.io/v3/b/660d4bddacd3cb34a832bbb3")
+response = requests.get(os.environ.get("URL"))
 data = response.json()
 blogs = data["record"]
 
